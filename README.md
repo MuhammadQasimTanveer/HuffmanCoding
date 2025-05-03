@@ -1,6 +1,7 @@
 🗜️ Text Compressor using Huffman Coding (C++)
 A C++ implementation of text compression using the Huffman coding algorithm.
-This project provides functionality for compressing text input, decompressing it back to its original form, and searching for character-specific information.
+This project provides functionality for compressing text input, decompressing 
+it back to its original form, and searching for character-specific information.
 
 ✨ Features
 🔹 Text Compression — Compress user-provided text using Huffman coding
@@ -14,4 +15,4 @@ This project provides functionality for compressing text input, decompressing it
 • Standard Template Library (STL)
 
 📚 Developed for
-"Analysis of Algorithms" Course — 4th Semester Projec.,,,,yar main headings wo hain,jin k sath icon hain
+"Analysis of Algorithms" Course — 4th Semester Projec
