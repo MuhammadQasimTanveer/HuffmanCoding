@@ -7,6 +7,8 @@ This project provides functionality for compressing text input, decompressing it
 
 back to its original form, and searching for character-specific information.
 
+
+
 ✨ Features
 
 
@@ -20,11 +22,15 @@ back to its original form, and searching for character-specific information.
 
 • Look up Huffman code of a specific character
 
+
+
 🚀 Prerequisites
 
 • C++ compiler with C++11 support or higher
 
 • Standard Template Library (STL)
+
+
 
 📚 Developed for
 
