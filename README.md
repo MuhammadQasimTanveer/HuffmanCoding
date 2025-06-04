@@ -4,9 +4,9 @@ A C++ implementation of text compression using the Huffman coding algorithm. Thi
 
 ### ✨ Features
 
-1. **Text Compression** — Compress user-provided text using Huffman coding  
-2. **Text Decompression** — Restore compressed text back to original form  
-3. **Character Search** —  
+1. **Text Compression** : Compress user-provided text using Huffman coding  
+2. **Text Decompression** : Restore compressed text back to original form  
+3. **Character Search** : 
    - Find frequency of a specific character  
    - Look up Huffman code of a specific character  
 
